@@ -8,7 +8,7 @@ Desenvolvedor Backend apaixonado por tecnologias de backend e infraestrutura. Ad
 
 - **Backend**: Go e Node.js
 - **Frontend**: React
-- **Bancos de Dados**: SQL (MySQL, PostgreSQL), NoSQL (MongoDB)
+- **Bancos de Dados**: SQL (MySQL, PostgreSQL)
 - **Ferramentas e DevOps**: Docker, Git, CI/CD
 - **Outros**: Experiência com integração de APIs, autenticação, e arquitetura de sistemas
 
