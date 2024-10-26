@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Paulo
+# 👋 Olá! Eu sou o Paulo
 
 Desenvolvedor Backend apaixonado por tecnologias de backend e infraestrutura. Adoro construir aplicações escaláveis e confiáveis, principalmente usando Go e Node.js, além de ter experiência com front-end em React para criar interfaces funcionais.
 
