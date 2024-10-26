@@ -25,7 +25,3 @@ Combinando habilidades de backend e frontend, gosto de explorar e aprender novas
   <a href="https://www.linkedin.com/in/pauloberto96/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
----
-
-Obrigad@ por visitar meu perfil e espero que meus projetos sejam úteis para você! Vamos colaborar e criar algo incrível! 🌟
